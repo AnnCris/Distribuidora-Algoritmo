@@ -1,0 +1,86 @@
+cliente_id,cliente_nombre,cluster,nombre_cluster,descripcion_cluster,frecuencia,recencia_dias,valor_total,ticket_promedio,ciudad,tipo_negocio,categoria_preferida
+108,MARIA RENÉ,0,🌱 Negocios Emergentes,Establecimientos nuevos en crecimiento,8,3,6340.58,792.57,COPACABANA,PUESTO DE MERCADO,BOLITA
+79,EFRAÍN,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,30,30,29354.1,978.47,LA PAZ,FRIAL,BOLITA
+16,MAGALI,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,26,0,23727.22,912.59,El ALTO,FRIAL,BARRA
+31,SANTOS,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,21,56,31864.75,1517.37,El ALTO,PIZZERIA,BOLITA
+105,DIVERLAND,0,🌱 Negocios Emergentes,Establecimientos nuevos en crecimiento,8,90,4481.58,560.2,LA PAZ,RESTAURANTE,BOLITA
+10,ADELA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,27,25,24492.2,907.12,El ALTO,FRIAL,BOLITA
+34,HELEN,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,27,27,25360.52,939.28,El ALTO,TIENDA,BARRA
+63,VERO MAMANI,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,35,8,62132.28,1775.21,El ALTO,PIZZERIA,BOLITA
+66,VIQUI,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,33,19,33043.9,1001.33,LA PAZ,PUESTO DE MERCADO,BOLITA
+29,WILLY,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,26,55,25227.05,970.27,El ALTO,FRIAL,BOLITA
+43,SILVIA HAMBURGUESA,0,🌱 Negocios Emergentes,Establecimientos nuevos en crecimiento,25,1,11335.0,453.4,El ALTO,HAMBURGUESERIA,LAMINADO
+6,MARIA LUNA,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,41,5,78400.5,1912.21,El ALTO,PIZZERIA,BOLITA
+56,EDSON,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,30,3,50659.3,1688.64,El ALTO,PIZZERIA,BOLITA
+65,FORTALEZA TEJAR,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,21,54,20469.75,974.75,LA PAZ,FRIAL,BOLITA
+40,ANA (SALCHIPAPA),0,🌱 Negocios Emergentes,Establecimientos nuevos en crecimiento,31,3,18156.05,585.68,El ALTO,SALCHIPAPERIA,LAMINADO
+36,WALTER,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,30,108,49451.32,1648.38,El ALTO,PIZZERIA,BOLITA
+17,MERY,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,22,1,22432.88,1019.68,El ALTO,FRIAL,BOLITA
+102,ZULEMA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,4,5,5664.55,1416.14,LA PAZ,PIZZERIA,BARRA
+35,BASILIA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,26,34,25236.6,970.64,El ALTO,FRIAL,BOLITA
+57,IRENE,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,38,2,39300.28,1034.22,El ALTO,FRIAL,BOLITA
+8,SEGUNDINA,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,24,69,40603.55,1691.81,El ALTO,PIZZERIA,BARRA
+44,FORTALEZA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,37,43,38622.45,1043.85,El ALTO,PUESTO DE MERCADO,BOLITA
+69,FORTALEZA YUNGAS,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,23,4,12162.75,528.82,LA PAZ,MINIMARKET,BARRA
+86,FABIAN,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,35,6,29814.98,851.86,LA PAZ,PUESTO DE MERCADO,BOLITA
+28,GABY,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,33,0,34747.0,1052.94,El ALTO,FRIAL,BARRA
+20,YOLA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,35,2,35815.82,1023.31,El ALTO,FRIAL,BOLITA
+91,MARIA TREBOL,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,28,4,27134.3,969.08,LA PAZ,FRIAL,BOLITA
+96,BROSSO,0,🌱 Negocios Emergentes,Establecimientos nuevos en crecimiento,13,39,6221.9,478.61,LA PAZ,RESTAURANTE,LAMINADO
+26,HILDA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,42,23,34588.25,823.53,El ALTO,FRIAL,BOLITA
+9,MARY KENKO,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,29,8,28673.05,988.73,El ALTO,FRIAL,BARRA
+85,PAOLA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,30,4,31701.48,1056.72,LA PAZ,PUESTO DE MERCADO,BOLITA
+50,DELIS,0,🌱 Negocios Emergentes,Establecimientos nuevos en crecimiento,25,15,13960.95,558.44,El ALTO,HAMBURGUESERIA,LAMINADO
+14,VERO AZURDUY,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,32,4,34991.38,1093.48,El ALTO,FRIAL,BOLITA
+80,JULIETA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,31,20,32343.9,1043.35,LA PAZ,PUESTO DE MERCADO,BOLITA
+25,ALICIA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,20,3,19536.72,976.84,El ALTO,PUESTO DE MERCADO,BOLITA
+4,ELVIRA,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,28,7,41829.28,1493.9,El ALTO,PIZZERIA,BARRA
+18,MARIA RENÉ,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,24,61,26628.92,1109.54,El ALTO,FRIAL,BOLITA
+39,JUDITH,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,31,9,25374.32,818.53,El ALTO,FRIAL,BARRA
+94,MARINO,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,17,48,31460.72,1850.63,LA PAZ,PIZZERIA,BOLITA
+7,ROSALIA,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,32,1,61412.2,1919.13,El ALTO,PIZZERIA,BOLITA
+74,ROSA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,37,19,36149.88,977.02,LA PAZ,PUESTO DE MERCADO,BARRA
+98,SONIA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,18,19,17158.3,953.24,LA PAZ,PUESTO DE MERCADO,BARRA
+90,ANGELICA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,32,19,32901.88,1028.18,LA PAZ,PUESTO DE MERCADO,BARRA
+55,BENIANA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,26,113,26846.0,1032.54,El ALTO,FRIAL,BOLITA
+51,ARMINDA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,33,18,30536.92,925.36,El ALTO,FRIAL,BOLITA
+77,SILVIA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,34,57,32798.65,964.67,LA PAZ,FRIAL,BOLITA
+47,SUSANA,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,33,0,51290.52,1554.26,El ALTO,PIZZERIA,BARRA
+78,SUSSI,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,26,58,25161.2,967.74,LA PAZ,FRIAL,BOLITA
+62,ALEJANDRA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,31,7,33057.43,1066.37,El ALTO,PUESTO DE MERCADO,BOLITA
+111,ZAMBRANA,4,🔄 Compradores Ocasionales,Clientes con compras esporádicas o estacionales,9,97,10270.33,1141.15,CARANAVI,PIZZERIA,BARRA
+89,VEGA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,31,6,29242.68,943.31,LA PAZ,PUESTO DE MERCADO,BARRA
+42,NORTEÑA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,30,2,24582.6,819.42,El ALTO,FRIAL,BOLITA
+59,FLORA,0,🌱 Negocios Emergentes,Establecimientos nuevos en crecimiento,29,5,13746.45,474.02,El ALTO,SALCHIPAPERIA,LAMINADO
+49,ROSMERY CEJA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,26,5,22610.98,869.65,El ALTO,PUESTO DE MERCADO,BOLITA
+97,ANTONIA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,14,71,14915.4,1065.39,LA PAZ,PUESTO DE MERCADO,BOLITA
+58,KARINA,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,32,19,54500.0,1703.12,El ALTO,PIZZERIA,BOLITA
+76,CINTHIA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,35,2,35978.95,1027.97,LA PAZ,FRIAL,BOLITA
+33,ROSMERY,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,38,54,37401.62,984.25,El ALTO,FRIAL,BOLITA
+110,BRAYAN POMA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,7,44,5441.4,777.34,COPACABANA,PUESTO DE MERCADO,BARRA
+60,JUANA,0,🌱 Negocios Emergentes,Establecimientos nuevos en crecimiento,35,6,15312.0,437.49,El ALTO,SALCHIPAPERIA,LAMINADO
+64,ALICIA ESPINOZA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,33,17,34027.15,1031.13,LA PAZ,FRIAL,BOLITA
+95,YOLA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,8,10,6641.8,830.22,LA PAZ,FRIAL,BARRA
+38,LUCY,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,41,50,42410.2,1034.4,El ALTO,PUESTO DE MERCADO,BOLITA
+30,CONY,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,36,9,36577.22,1016.03,El ALTO,FRIAL,BOLITA
+101,CRISTINA,4,🔄 Compradores Ocasionales,Clientes con compras esporádicas o estacionales,8,252,14194.2,1774.28,LA PAZ,PIZZERIA,BOLITA
+2,LURDES,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,30,7,50514.1,1683.8,El ALTO,PIZZERIA,BOLITA
+53,OSCAR,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,29,0,29714.32,1024.63,El ALTO,FRIAL,BOLITA
+22,JANET,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,27,19,28511.28,1055.97,El ALTO,PUESTO DE MERCADO,BOLITA
+3,GLADYS,2,🌟 Compradores Premium de Alto Volumen,Pizzerías establecidas con compras frecuentes y alto volumen,39,12,69840.1,1790.77,El ALTO,PIZZERIA,BOLITA
+24,ANA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,24,4,21130.25,880.43,El ALTO,PUESTO DE MERCADO,BOLITA
+100,REMEDIOS,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,12,57,12150.55,1012.55,LA PAZ,PUESTO DE MERCADO,BOLITA
+88,ESQUIBEL,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,21,17,18347.28,873.68,LA PAZ,PUESTO DE MERCADO,BOLITA
+106,GOLDEN,0,🌱 Negocios Emergentes,Establecimientos nuevos en crecimiento,10,74,3201.0,320.1,El ALTO,HAMBURGUESERIA,LAMINADO
+75,CARLOS,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,25,78,22599.3,903.97,LA PAZ,PUESTO DE MERCADO,BARRA
+87,JULIA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,27,21,23708.12,878.08,LA PAZ,PUESTO DE MERCADO,BOLITA
+83,REYNALDO,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,50,20,47240.65,944.81,LA PAZ,PUESTO DE MERCADO,BOLITA
+114,LURDES GUTIERREZ,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,13,18,11012.72,847.13,CARANAVI,FRIAL,BARRA
+21,FRIAL PABLO,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,41,2,37544.12,915.71,El ALTO,FRIAL,BOLITA
+61,BERNARDA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,32,35,30693.32,959.17,El ALTO,FRIAL,BOLITA
+72,FLAVIA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,25,28,9030.0,361.2,LA PAZ,PIZZERIA,BARRA
+107,MARTA SARMIENTO,0,🌱 Negocios Emergentes,Establecimientos nuevos en crecimiento,4,60,2783.5,695.88,COPACABANA,PUESTO DE MERCADO,LAMINADO
+15,ELVIRA CINCO,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,23,8,21679.22,942.58,El ALTO,FRIAL,BOLITA
+93,ADALID,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,12,15,10423.55,868.63,LA PAZ,FRIAL,BOLITA
+52,MARIZA,1,🍽️ Compradores Frecuentes Especializados,Restaurantes con compras regulares y especializadas,33,4,32188.5,975.41,El ALTO,PUESTO DE MERCADO,BOLITA
+103,RAUL CALLISAYA,3,🏪 Comerciantes Mayoristas,Mercados y tiendas con compras al por mayor,14,75,6513.95,465.28,El ALTO,RESTAURANTE,BARRA

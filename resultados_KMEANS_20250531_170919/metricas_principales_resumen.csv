@@ -1,0 +1,5 @@
+Métrica,Valor,Interpretación
+Coeficiente de Silhouette,0.058503725509490956,Regular
+Inercia Total,522.7691756374752,522.77 (suma total de distancias cuadradas)
+Inercia Promedio,6.1502255957350025,Compacto
+Pureza Global,0.7176470588235294,Homogeneidad media

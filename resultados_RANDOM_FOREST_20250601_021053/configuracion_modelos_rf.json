@@ -1,0 +1,32 @@
+{
+  "fecha_entrenamiento": "2025-06-01T02:12:10.165550",
+  "algoritmo": "Random Forest",
+  "objetivos": {
+    "modelo_1": {
+      "nombre": "Predicci\u00f3n de pr\u00f3xima fecha de compra",
+      "objetivo": 83,
+      "metrica": "precisi\u00f3n",
+      "descripcion": "Predecir cu\u00e1ndo un cliente realizar\u00e1 su pr\u00f3xima compra con \u00b13 d\u00edas de precisi\u00f3n"
+    },
+    "modelo_2": {
+      "nombre": "Estimaci\u00f3n de productos con mayor probabilidad",
+      "objetivo": 76,
+      "metrica": "precisi\u00f3n",
+      "descripcion": "Identificar productos que un cliente tiene mayor probabilidad de comprar"
+    },
+    "modelo_3": {
+      "nombre": "Anticipaci\u00f3n de cambios en patrones",
+      "objetivo": 68,
+      "metrica": "efectividad",
+      "descripcion": "Detectar cambios significativos en el comportamiento de compra"
+    }
+  },
+  "modelos_entrenados": {
+    "modelo_1": true,
+    "modelo_2": true,
+    "modelo_3": true
+  },
+  "division_datos": "80-20",
+  "validacion_cruzada": "5-fold",
+  "optimizacion": "GridSearchCV"
+}

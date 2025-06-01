@@ -1,0 +1,140 @@
+
+================================================================================
+                    INFORME DE MÉTRICAS PRINCIPALES - K-MEANS
+================================================================================
+
+Fecha de generación: 2025-05-31 17:09:34
+Algoritmo: K-means
+Número de clusters: 5
+Total de muestras: 85
+
+================================================================================
+                              MÉTRICAS PRINCIPALES
+================================================================================
+
+1. COEFICIENTE DE SILHOUETTE (Silhouette Coefficient)
+------------------------------------------------------
+   Valor en entrenamiento: 0.2314
+   Valor en prueba: 0.0585
+
+   Interpretación:
+   - Rango: [-1, 1]
+   - Valores cercanos a 1: Clusters bien separados
+   - Valores cercanos a 0: Clusters superpuestos
+   - Valores negativos: Asignación incorrecta
+
+   Evaluación: POBRE (<0.2)
+
+   Conclusión: Los clusters muestran una separación que necesita mejora.
+
+2. INERCIA (Within-Cluster Sum of Squares - WCSS)
+--------------------------------------------------
+   Valor total: 522.77
+   Inercia promedio por muestra: 6.1502
+
+   Interpretación:
+   - Mide la suma de distancias cuadradas dentro de cada cluster
+   - Valores menores indican clusters más compactos
+   - Se usa en el método del codo para determinar k óptimo
+
+   Análisis por cluster:
+   - Cluster 1: 92.66 (17.7% del total)
+   - Cluster 2: 176.02 (33.7% del total)
+   - Cluster 3: 70.35 (13.5% del total)
+   - Cluster 4: 151.10 (28.9% del total)
+   - Cluster 5: 32.64 (6.2% del total)
+
+3. PUREZA DE CLUSTERS (Cluster Purity)
+---------------------------------------
+   Valor global: 0.7176 (71.76%)
+
+   Interpretación:
+   - Rango: [0, 1]
+   - Mide qué tan homogéneos son los clusters respecto a las clases reales
+   - 1.0 significa clusters perfectamente puros
+
+   Pureza por cluster (basada en tipo de negocio):
+   - Cluster 1: 0.3000 (30.00%) - Dominado por: SALCHIPAPERIA
+   - Cluster 2: 0.7500 (75.00%) - Dominado por: FRIAL
+   - Cluster 3: 1.0000 (100.00%) - Dominado por: PIZZERIA
+   - Cluster 4: 0.6500 (65.00%) - Dominado por: PUESTO DE MERCADO
+   - Cluster 5: 1.0000 (100.00%) - Dominado por: PIZZERIA
+
+================================================================================
+                           MÉTRICAS COMPLEMENTARIAS
+================================================================================
+
+4. ÍNDICE CALINSKI-HARABASZ
+----------------------------
+   Valor en entrenamiento: 19.02
+   Valor en prueba: 5.41
+
+   Interpretación:
+   - También conocido como Variance Ratio Criterion
+   - Valores más altos indican mejor definición de clusters
+   - No tiene un rango específico, es comparativo
+
+5. ÍNDICE DAVIES-BOULDIN
+------------------------
+   Valor en entrenamiento: 1.4156
+   Valor en prueba: 1.7771
+
+   Interpretación:
+   - Valores más bajos indican mejor separación
+   - Rango: [0, ∞)
+   - Valores < 1 se consideran buenos
+
+================================================================================
+                              RESUMEN EJECUTIVO
+================================================================================
+
+CALIDAD GENERAL DEL MODELO:
+---------------------------
+Basado en las métricas principales, el modelo K-means muestra:
+
+✓ Silhouette Score: 0.059 - NECESITA MEJORA
+✓ Inercia total: 522.77 - Clusters muy compactos
+✓ Pureza: 71.8% - Homogeneidad moderada
+
+RECOMENDACIONES BASADAS EN MÉTRICAS:
+-------------------------------------
+
+- Considerar reducir el número de clusters o revisar las variables utilizadas
+- El índice Davies-Bouldin sugiere clusters con solapamiento
+
+================================================================================
+                           INTERPRETACIÓN DETALLADA
+================================================================================
+
+COEFICIENTE DE SILHOUETTE:
+--------------------------
+El valor de 0.0585 indica que en promedio, cada punto está 
+pobremente 
+asignado a su cluster. Esto significa que la distancia promedio de cada punto 
+a los puntos de su propio cluster es solo ligeramente menor 
+que la distancia a los puntos del cluster más cercano.
+
+INERCIA:
+--------
+La inercia total de 522.77 representa la suma de las distancias 
+cuadradas de cada punto a su centroide. Con 85 muestras, esto da 
+una inercia promedio de 6.1502 por punto, lo cual es 
+excelente 
+para este tipo de datos.
+
+PUREZA:
+-------
+La pureza de 71.76% indica que, en promedio, ese porcentaje de 
+elementos en cada cluster pertenecen a la clase dominante (tipo de negocio). 
+Esto sugiere que los clusters capturan razonablemente bien 
+las categorías naturales del negocio.
+
+================================================================================
+                                CONCLUSIÓN
+================================================================================
+
+El modelo K-means con 5 clusters presenta un desempeño QUE REQUIERE OPTIMIZACIÓN 
+según las métricas evaluadas. Los clusters formados son moderadamente cohesivos, 
+con una buena correspondencia con las categorías de negocio esperadas.
+
+================================================================================

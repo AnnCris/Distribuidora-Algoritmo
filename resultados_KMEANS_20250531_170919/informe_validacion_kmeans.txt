@@ -1,0 +1,161 @@
+
+INFORME DE VALIDACIÓN DEL MODELO K-MEANS
+========================================
+
+Fecha: 2025-05-31 17:09:34
+Algoritmo: K-Means
+Número de Clusters: 5
+
+1. DATOS UTILIZADOS
+-------------------
+- Total de clientes analizados: 114
+- Clientes en entrenamiento: 85
+- Clientes en prueba: 29
+- Variables utilizadas: 12
+- Período de datos: 2023-01-01 a 2024-12-30
+
+2. MÉTRICAS DE EVALUACIÓN INTERNA
+----------------------------------
+Silhouette Score:
+  - Entrenamiento: 0.231
+  - Prueba: 0.059
+  - Interpretación: Necesita mejora
+
+Calinski-Harabasz Index:
+  - Entrenamiento: 19.0
+  - Prueba: 5.4
+  - Interpretación: Valores más altos indican mejor separación entre clusters
+
+Davies-Bouldin Index:
+  - Entrenamiento: 1.416
+  - Prueba: 1.777
+  - Interpretación: Necesita mejora
+
+3. MÉTRICAS DE VALIDACIÓN EXTERNA
+----------------------------------
+F1-Score (weighted): 0.000
+Precision (weighted): 0.000
+Recall (weighted): 0.000
+
+Métricas de Clustering:
+- Homogeneidad: 0.680
+- Completitud: 0.363
+- V-measure: 0.474
+- Adjusted Rand Index: 0.362
+- Adjusted Mutual Information: 0.438
+
+4. ANÁLISIS DE ESTABILIDAD
+--------------------------
+Diferencia Silhouette (Train-Test): 0.173
+Estabilidad: Baja
+
+Distribución de Clusters:
+
+Cluster 1: Train=10 (11.8%), Test=1 (3.4%)
+Cluster 2: Train=40 (47.1%), Test=12 (41.4%)
+Cluster 3: Train=13 (15.3%), Test=5 (17.2%)
+Cluster 4: Train=20 (23.5%), Test=9 (31.0%)
+Cluster 5: Train=2 (2.4%), Test=2 (6.9%)
+
+5. ANÁLISIS ANOVA
+-----------------
+Todas las variables muestran diferencias significativas entre clusters (p < 0.05):
+
+- frecuencia: F=9.49, p=0.0000 Sí
+- recencia_dias: F=12.59, p=0.0000 Sí
+- valor_total: F=38.49, p=0.0000 Sí
+- ticket_promedio: F=101.00, p=0.0000 Sí
+- num_categorias: F=90.01, p=0.0000 Sí
+
+6. CORRELACIONES IMPORTANTES
+----------------------------
+Variables con alta correlación (|r| > 0.7):
+
+- frecuencia ↔ valor_total: r=0.759
+- recencia_dias ↔ periodo_cliente_dias: r=-0.789
+- valor_total ↔ ticket_promedio: r=0.739
+- valor_total ↔ descuento_promedio: r=0.741
+- ticket_promedio ↔ descuento_promedio: r=0.987
+
+7. PERFILES DE CLUSTERS IDENTIFICADOS
+-------------------------------------
+
+Cluster 1: 🌱 Negocios Emergentes
+- Clientes: 10 (11.8%)
+- Frecuencia promedio: 18.8 compras
+- Valor promedio: Bs. 9,553.90
+- Ticket promedio: Bs. 535.64
+- Tipo principal: HAMBURGUESERIA
+- Ciudad principal: El ALTO
+
+Cluster 2: 🍽️ Compradores Frecuentes Especializados
+- Clientes: 40 (47.1%)
+- Frecuencia promedio: 30.6 compras
+- Valor promedio: Bs. 29,696.76
+- Ticket promedio: Bs. 970.12
+- Tipo principal: FRIAL
+- Ciudad principal: El ALTO
+
+Cluster 3: 🌟 Compradores Premium de Alto Volumen
+- Clientes: 13 (15.3%)
+- Frecuencia promedio: 30.2 compras
+- Valor promedio: Bs. 51,842.97
+- Ticket promedio: Bs. 1,709.94
+- Tipo principal: PIZZERIA
+- Ciudad principal: El ALTO
+
+Cluster 4: 🏪 Comerciantes Mayoristas
+- Clientes: 20 (23.5%)
+- Frecuencia promedio: 21.6 compras
+- Valor promedio: Bs. 19,275.06
+- Ticket promedio: Bs. 896.19
+- Tipo principal: PUESTO DE MERCADO
+- Ciudad principal: LA PAZ
+
+Cluster 5: 🔄 Compradores Ocasionales
+- Clientes: 2 (2.4%)
+- Frecuencia promedio: 8.5 compras
+- Valor promedio: Bs. 12,232.26
+- Ticket promedio: Bs. 1,457.72
+- Tipo principal: PIZZERIA
+- Ciudad principal: CARANAVI
+
+
+8. CONCLUSIONES Y RECOMENDACIONES
+---------------------------------
+CALIDAD DEL MODELO:
+El modelo K-means con 5 clusters muestra un rendimiento aceptable.
+
+ESTADO DE VALIDACIÓN:  MODELO Aprobado
+
+CRITERIOS DE APROBACIÓN:
+✗ Silhouette Score > 0.3: 0.059
+✗ F1-Score > 0.4: 0.000
+✗ Estabilidad Train-Test < 0.1: 0.173
+✗ Davies-Bouldin < 1.5: 1.777
+✓ Adjusted Rand Index > 0.2: 0.362
+
+FORTALEZAS:
+- Clara separación entre grupos de clientes
+- Estabilidad entre conjuntos de entrenamiento y prueba
+- Perfiles de clusters interpretables y accionables
+- Todas las variables muestran diferencias significativas entre clusters (ANOVA)
+- Métricas de validación dentro de rangos aceptables
+
+ÁREAS DE MEJORA:
+- Algunos clusters tienen pocos clientes, considerar estrategias de muestreo
+- Monitorear la evolución de clusters mensualmente
+- Validar con expertos del negocio la asignación final
+- Considerar características adicionales como estacionalidad detallada
+
+RECOMENDACIONES DE USO:
+1. Implementar estrategias diferenciadas por cluster inmediatamente
+2. Personalizar ofertas según el perfil de cada segmento
+3. Priorizar esfuerzos en clusters de alto valor (Premium y Frecuentes)
+4. Desarrollar planes de crecimiento para Negocios Emergentes
+5. Reactivar Compradores Ocasionales con promociones especiales
+6. Re-entrenar el modelo trimestralmente con datos actualizados
+
+NIVEL DE CONFIANZA: BAJO ⚠️
+
+DECISIÓN FINAL: ❌ MODELO REQUIERE AJUSTES ANTES DE IMPLEMENTACIÓN

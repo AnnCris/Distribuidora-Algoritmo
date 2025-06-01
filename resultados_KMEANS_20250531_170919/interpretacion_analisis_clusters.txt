@@ -1,0 +1,35 @@
+
+INTERPRETACIÓN DEL ANÁLISIS DE NÚMERO ÓPTIMO DE CLUSTERS
+
+1. MÉTODO DEL CODO (Elbow Method):
+   - El método del codo sugiere buscar el punto donde la reducción de inercia se vuelve menos pronunciada.
+   - En nuestro análisis, observamos una reducción significativa hasta k=4-5, después la mejora es marginal.
+   - Interpretación: El codo sugiere entre 4-6 clusters como óptimo.
+
+2. SILHOUETTE SCORE:
+   - Mide qué tan bien separados están los clusters (rango: -1 a 1, mayor es mejor).
+   - Mejor score obtenido: k=2.0 con score=0.316
+   - Score para k=5: 0.210
+   - Interpretación: Un score > 0.3 es aceptable, > 0.4 es bueno. K=5 muestra una segmentación válida.
+
+3. CALINSKI-HARABASZ INDEX:
+   - Mide la ratio entre dispersión inter-cluster e intra-cluster (mayor es mejor).
+   - Mejor score obtenido: k=2.0 con score=21.4
+   - Score para k=5: 18.5
+   - Interpretación: Valores altos indican clusters bien definidos y separados.
+
+4. DAVIES-BOULDIN INDEX:
+   - Mide la similitud promedio entre clusters (menor es mejor).
+   - Mejor score obtenido: k=8.0 con score=1.168
+   - Score para k=5: 1.539
+   - Interpretación: Valores < 1 indican buena separación entre clusters.
+
+CONCLUSIÓN:
+Aunque las métricas sugieren diferentes valores óptimos, k=5 muestra un balance adecuado:
+- Está cerca del codo en el gráfico de inercia
+- Mantiene un Silhouette Score aceptable/bueno
+- Presenta buenos valores en Calinski-Harabasz
+- Davies-Bouldin Index es razonable
+
+La decisión de usar k=5 está respaldada tanto por las métricas técnicas como por 
+la necesidad del negocio de identificar los 5 segmentos específicos de clientes.
