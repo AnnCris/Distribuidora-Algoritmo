@@ -1,2 +1,0 @@
-fecha_entrenamiento,algoritmo,n_clusters,n_clientes_train,n_clientes_test,silhouette_train,silhouette_test,calinski_harabasz_train,calinski_harabasz_test,davies_bouldin_train,davies_bouldin_test,f1_score,precision,recall,homogeneity,completeness,v_measure,ari,ami
-2025-05-31 17:09:34,K-Means,5,85,29,0.23143222836035143,0.058503725509490956,19.022958794622568,5.410710263133689,1.4156269736666407,1.7770898712672711,0.0,0.0,0.0,0.6804647689246,0.36321856218767445,0.47362533753367636,0.3615915070041358,0.4377614684064383
