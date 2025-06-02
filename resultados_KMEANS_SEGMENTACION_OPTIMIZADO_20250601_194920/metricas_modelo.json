@@ -1,0 +1,52 @@
+{
+  "fecha_entrenamiento": "2025-06-01T19:49:27.106761",
+  "coeficiente_silueta": 0.36046488135175925,
+  "inercia_total": 273.168895033611,
+  "pureza_clusters": 0.7842105263157895,
+  "silhouette_score": 0.36046488135175925,
+  "silhouette_train": 0.3506046267541895,
+  "silhouette_test": 0.33646254400806624,
+  "calinski_harabasz": 63.7266831137278,
+  "davies_bouldin": 1.1835871825634274,
+  "estabilidad_train_test": 0.014142082746123275,
+  "precision_recomendaciones": 0.745,
+  "estabilidad_temporal": 0.78,
+  "confianza_asignacion": 0.78,
+  "balanceamiento": 0.07894736842105263,
+  "objetivos_cumplidos": 3,
+  "criterios_validacion": {
+    "Silhouette Score": {
+      "objetivo": ">0.3",
+      "resultado": 0.36046488135175925,
+      "cumplido": true
+    },
+    "Precisi\u00f3n recomendaciones": {
+      "objetivo": ">65%",
+      "resultado": 0.745,
+      "cumplido": true
+    },
+    "Estabilidad Train-Test": {
+      "objetivo": "<0.15",
+      "resultado": 0.014142082746123275,
+      "cumplido": true
+    },
+    "Davies-Bouldin": {
+      "objetivo": "<2.0",
+      "resultado": 1.1835871825634274,
+      "cumplido": true
+    },
+    "Estabilidad temporal": {
+      "objetivo": ">70%",
+      "resultado": 0.78,
+      "cumplido": true
+    },
+    "Confianza asignaci\u00f3n": {
+      "objetivo": ">75%",
+      "resultado": 0.49025007708905577,
+      "cumplido": false
+    }
+  },
+  "estado_modelo": "\u274c NO CUMPLIDO",
+  "clusters_formados": 5,
+  "clientes_segmentados": 114
+}

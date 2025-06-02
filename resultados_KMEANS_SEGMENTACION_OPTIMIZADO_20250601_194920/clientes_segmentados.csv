@@ -1,0 +1,115 @@
+cliente_id,cliente_nombre,cluster,nombre_cluster,frecuencia,recencia_dias,valor_total,ticket_promedio,tipo_negocio,ciudad
+1,SANDER,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),82,1,147346.66,1796.91,PIZZERIA,El ALTO
+2,LURDES,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),124,1,223249.7,1800.4,PIZZERIA,El ALTO
+3,GLADYS,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),137,1,236418.95,1725.69,PIZZERIA,El ALTO
+4,ELVIRA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),105,2,194478.16,1852.17,PIZZERIA,El ALTO
+5,ELY,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),124,5,232848.6,1877.81,PIZZERIA,El ALTO
+6,MARIA LUNA,3,🔄 Ocasionales (Compras esporádicas),89,19,148780.63,1671.69,PIZZERIA,El ALTO
+7,ROSALIA,3,🔄 Ocasionales (Compras esporádicas),73,13,143835.31,1970.35,PIZZERIA,El ALTO
+8,SEGUNDINA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),124,2,229487.31,1850.7,PIZZERIA,El ALTO
+9,MARY KENKO,2,🍽️ Frecuentes Especializados (Restaurantes),115,1,404021.16,3513.23,FRIAL,El ALTO
+10,ADELA,2,🍽️ Frecuentes Especializados (Restaurantes),129,4,401609.36,3113.25,FRIAL,El ALTO
+11,MARIA,3,🔄 Ocasionales (Compras esporádicas),79,13,159960.42,2024.82,PUESTO DE MERCADO,El ALTO
+12,PATTY,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),111,5,228505.92,2058.61,PUESTO DE MERCADO,El ALTO
+13,AMALIA,0,🏪 Mayoristas (Mercados y Tiendas),86,3,300513.63,3494.34,FRIAL,El ALTO
+14,VERO AZURDUY,0,🏪 Mayoristas (Mercados y Tiendas),79,4,286224.59,3623.1,FRIAL,El ALTO
+15,ELVIRA CINCO,2,🍽️ Frecuentes Especializados (Restaurantes),108,8,359562.69,3329.28,FRIAL,El ALTO
+16,MAGALI,2,🍽️ Frecuentes Especializados (Restaurantes),111,1,382993.43,3450.39,FRIAL,El ALTO
+17,MERY,0,🏪 Mayoristas (Mercados y Tiendas),92,1,313004.74,3402.23,FRIAL,El ALTO
+18,MARIA RENÉ,2,🍽️ Frecuentes Especializados (Restaurantes),123,0,406432.6,3304.33,FRIAL,El ALTO
+19,EDWIN,2,🍽️ Frecuentes Especializados (Restaurantes),124,1,416166.48,3356.18,FRIAL,El ALTO
+20,YOLA,0,🏪 Mayoristas (Mercados y Tiendas),86,2,271302.7,3154.68,FRIAL,El ALTO
+21,FRIAL PABLO,2,🍽️ Frecuentes Especializados (Restaurantes),103,0,342455.11,3324.81,FRIAL,El ALTO
+22,JANET,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),121,0,247889.02,2048.67,PUESTO DE MERCADO,El ALTO
+23,FANY,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),96,2,198930.72,2072.2,PUESTO DE MERCADO,El ALTO
+24,ANA,3,🔄 Ocasionales (Compras esporádicas),87,9,190512.91,2189.8,PUESTO DE MERCADO,El ALTO
+25,ALICIA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),134,4,281082.62,2097.63,PUESTO DE MERCADO,El ALTO
+26,HILDA,0,🏪 Mayoristas (Mercados y Tiendas),98,6,339216.27,3461.39,FRIAL,El ALTO
+27,NATTY,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),78,1,162088.86,2078.06,PUESTO DE MERCADO,El ALTO
+28,GABY,2,🍽️ Frecuentes Especializados (Restaurantes),126,0,398196.56,3160.29,FRIAL,El ALTO
+29,WILLY,0,🏪 Mayoristas (Mercados y Tiendas),94,9,310843.94,3306.85,FRIAL,El ALTO
+30,CONY,2,🍽️ Frecuentes Especializados (Restaurantes),114,4,389195.65,3414.0,FRIAL,El ALTO
+31,SANTOS,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),135,4,243495.19,1803.67,PIZZERIA,El ALTO
+32,VERONICA,2,🍽️ Frecuentes Especializados (Restaurantes),117,1,400296.3,3421.34,FRIAL,El ALTO
+33,ROSMERY,2,🍽️ Frecuentes Especializados (Restaurantes),107,10,371045.52,3467.72,FRIAL,El ALTO
+34,HELEN,4,🌱 Emergentes (Negocios nuevos),71,5,57267.59,806.59,TIENDA,El ALTO
+35,BASILIA,2,🍽️ Frecuentes Especializados (Restaurantes),108,6,393346.65,3642.1,FRIAL,El ALTO
+36,WALTER,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),117,3,189373.64,1618.58,PIZZERIA,El ALTO
+37,EUGENIA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),90,0,181368.94,2015.21,PUESTO DE MERCADO,El ALTO
+38,LUCY,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),134,1,269235.61,2009.22,PUESTO DE MERCADO,El ALTO
+39,JUDITH,2,🍽️ Frecuentes Especializados (Restaurantes),108,0,340276.79,3150.71,FRIAL,El ALTO
+40,ANA (SALCHIPAPA),4,🌱 Emergentes (Negocios nuevos),138,0,82480.98,597.69,SALCHIPAPERIA,El ALTO
+41,DANIELA,2,🍽️ Frecuentes Especializados (Restaurantes),123,0,429273.09,3490.03,FRIAL,El ALTO
+42,NORTEÑA,0,🏪 Mayoristas (Mercados y Tiendas),78,5,264738.4,3394.08,FRIAL,El ALTO
+43,SILVIA HAMBURGUESA,4,🌱 Emergentes (Negocios nuevos),110,0,90531.81,823.02,HAMBURGUESERIA,El ALTO
+44,FORTALEZA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),106,5,214663.21,2025.12,PUESTO DE MERCADO,El ALTO
+45,MARIZOL,0,🏪 Mayoristas (Mercados y Tiendas),93,3,326149.91,3506.99,FRIAL,El ALTO
+46,DAYNER,0,🏪 Mayoristas (Mercados y Tiendas),78,2,233451.66,2992.97,FRIAL,El ALTO
+47,SUSANA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),129,0,231583.94,1795.22,PIZZERIA,El ALTO
+48,FELY,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),124,2,213229.75,1719.59,PIZZERIA,El ALTO
+49,ROSMERY CEJA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),95,0,207920.75,2188.64,PUESTO DE MERCADO,El ALTO
+50,DELIS,3,🔄 Ocasionales (Compras esporádicas),110,17,84842.97,771.3,HAMBURGUESERIA,El ALTO
+51,ARMINDA,2,🍽️ Frecuentes Especializados (Restaurantes),108,6,370669.06,3432.12,FRIAL,El ALTO
+52,MARIZA,3,🔄 Ocasionales (Compras esporádicas),109,13,237107.87,2175.3,PUESTO DE MERCADO,El ALTO
+53,OSCAR,0,🏪 Mayoristas (Mercados y Tiendas),82,8,266633.32,3251.63,FRIAL,El ALTO
+54,DANIEL FORTALEZA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),134,2,188745.69,1408.55,MINIMARKET,El ALTO
+55,BENIANA,0,🏪 Mayoristas (Mercados y Tiendas),99,0,315607.42,3187.95,FRIAL,El ALTO
+56,EDSON,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),129,1,236571.52,1833.89,PIZZERIA,El ALTO
+57,IRENE,2,🍽️ Frecuentes Especializados (Restaurantes),113,1,365474.17,3234.28,FRIAL,El ALTO
+58,KARINA,3,🔄 Ocasionales (Compras esporádicas),99,15,188023.85,1899.23,PIZZERIA,El ALTO
+59,FLORA,4,🌱 Emergentes (Negocios nuevos),103,2,70240.38,681.95,SALCHIPAPERIA,El ALTO
+60,JUANA,4,🌱 Emergentes (Negocios nuevos),99,1,67921.04,686.07,SALCHIPAPERIA,El ALTO
+61,BERNARDA,2,🍽️ Frecuentes Especializados (Restaurantes),121,10,397623.75,3286.15,FRIAL,El ALTO
+62,ALEJANDRA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),128,0,249664.41,1950.5,PUESTO DE MERCADO,El ALTO
+63,VERO MAMANI,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),104,6,206940.64,1989.81,PIZZERIA,El ALTO
+64,ALICIA ESPINOZA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),116,7,210677.87,1816.19,PIZZERIA,LA PAZ
+65,FORTALEZA TEJAR,2,🍽️ Frecuentes Especializados (Restaurantes),131,3,399193.59,3047.28,FRIAL,LA PAZ
+66,VIQUI,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),99,5,222969.43,2252.22,PUESTO DE MERCADO,LA PAZ
+67,RUTH,3,🔄 Ocasionales (Compras esporádicas),89,13,172386.02,1936.92,PUESTO DE MERCADO,LA PAZ
+68,EULOGIA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),118,0,231163.32,1959.01,PUESTO DE MERCADO,LA PAZ
+69,FORTALEZA YUNGAS,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),103,3,153712.75,1492.36,MINIMARKET,LA PAZ
+70,JUANA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),97,3,203085.67,2093.67,PUESTO DE MERCADO,LA PAZ
+71,NOELIA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),111,0,184939.64,1666.12,PIZZERIA,LA PAZ
+72,FLAVIA,4,🌱 Emergentes (Negocios nuevos),122,2,49557.41,406.21,PIZZERA,LA PAZ
+73,MILENKA,4,🌱 Emergentes (Negocios nuevos),116,8,41378.39,356.71,SALTEÑERIA,LA PAZ
+74,ROSA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),94,1,181313.76,1928.87,PUESTO DE MERCADO,LA PAZ
+75,CARLOS,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),134,4,270043.36,2015.25,PUESTO DE MERCADO,LA PAZ
+76,CINTHIA,2,🍽️ Frecuentes Especializados (Restaurantes),114,11,389738.37,3418.76,FRIAL,LA PAZ
+77,SILVIA,0,🏪 Mayoristas (Mercados y Tiendas),94,7,320886.69,3413.69,FRIAL,LA PAZ
+78,SUSSI,2,🍽️ Frecuentes Especializados (Restaurantes),127,9,429182.52,3379.39,FRIAL,LA PAZ
+79,EFRAÍN,2,🍽️ Frecuentes Especializados (Restaurantes),128,1,385946.52,3015.21,FRIAL,LA PAZ
+80,JULIETA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),104,4,211259.92,2031.35,PUESTO DE MERCADO,LA PAZ
+81,GUIDO,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),87,3,175151.9,2013.24,PIZZERIA,LA PAZ
+82,ARMINDA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),111,8,241150.72,2172.53,PUESTO DE MERCADO,LA PAZ
+83,REYNALDO,3,🔄 Ocasionales (Compras esporádicas),106,5,217403.76,2050.98,PUESTO DE MERCADO,LA PAZ
+84,LEO,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),116,0,239858.39,2067.74,PUESTO DE MERCADO,LA PAZ
+85,PAOLA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),130,2,249675.37,1920.58,PUESTO DE MERCADO,LA PAZ
+86,FABIAN,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),121,0,245991.27,2032.99,PUESTO DE MERCADO,LA PAZ
+87,JULIA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),102,2,192202.77,1884.34,PUESTO DE MERCADO,LA PAZ
+88,ESQUIBEL,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),98,1,197972.82,2020.13,PUESTO DE MERCADO,LA PAZ
+89,VEGA,3,🔄 Ocasionales (Compras esporádicas),76,6,148543.49,1954.52,PUESTO DE MERCADO,LA PAZ
+90,ANGELICA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),134,10,275544.36,2056.3,PUESTO DE MERCADO,LA PAZ
+91,MARIA TREBOL,0,🏪 Mayoristas (Mercados y Tiendas),81,11,259495.25,3203.65,FRIAL,LA PAZ
+92,BERTA,2,🍽️ Frecuentes Especializados (Restaurantes),105,0,316522.14,3014.5,FRIAL,LA PAZ
+93,ADALID,0,🏪 Mayoristas (Mercados y Tiendas),81,0,274082.03,3383.73,FRIAL,LA PAZ
+94,MARINO,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),119,0,227979.14,1915.79,PIZZERIA,LA PAZ
+95,YOLA,2,🍽️ Frecuentes Especializados (Restaurantes),128,9,434659.63,3395.78,FRIAL,LA PAZ
+96,BROSSO,4,🌱 Emergentes (Negocios nuevos),132,7,132559.9,1004.24,RESTAURANTE,LA PAZ
+97,ANTONIA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),104,0,227894.79,2191.3,PUESTO DE MERCADO,LA PAZ
+98,SONIA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),102,0,219351.92,2150.51,PUESTO DE MERCADO,LA PAZ
+99,ISABEL,2,🍽️ Frecuentes Especializados (Restaurantes),125,4,405474.55,3243.8,FRIAL,LA PAZ
+100,REMEDIOS,3,🔄 Ocasionales (Compras esporádicas),76,17,160668.34,2114.06,PUESTO DE MERCADO,LA PAZ
+101,CRISTINA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),91,2,178855.44,1965.44,PIZZERIA,LA PAZ
+102,ZULEMA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),95,3,162297.04,1708.39,PIZZERIA,LA PAZ
+103,RAUL CALLISAYA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),74,0,132590.86,1791.77,PIZZERIA,El ALTO
+104,MIA URBE,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),135,1,268399.4,1988.14,PIZZERIA,El ALTO
+105,DIVERLAND,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),113,2,188594.19,1668.98,PIZZERIA,LA PAZ
+106,GOLDEN,4,🌱 Emergentes (Negocios nuevos),118,2,80764.86,684.45,HAMBURGUESERIA,El ALTO
+107,MARTA SARMIENTO,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),125,3,253863.43,2030.91,PUESTO DE MERCADO,COPACABANA
+108,MARIA RENÉ,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),114,8,236794.94,2077.15,PUESTO DE MERCADO,COPACABANA
+109,ELVIRA,3,🔄 Ocasionales (Compras esporádicas),77,12,148295.84,1925.92,PUESTO DE MERCADO,COPACABANA
+110,BRAYAN POMA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),115,3,241355.55,2098.74,PUESTO DE MERCADO,COPACABANA
+111,ZAMBRANA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),107,4,185386.5,1732.58,PIZZERIA,CARANAVI
+112,FREDDY MOLLO,3,🔄 Ocasionales (Compras esporádicas),73,9,138831.78,1901.81,PIZZERIA,CARANAVI
+113,VIRGINIA,1,🌟 Premium de Alto Volumen (Pizzerías establecidas),122,4,204960.56,1680.0,PIZZERIA,CARANAVI
+114,LURDES GUTIERREZ,2,🍽️ Frecuentes Especializados (Restaurantes),107,3,352942.16,3298.52,FRIAL,CARANAVI
