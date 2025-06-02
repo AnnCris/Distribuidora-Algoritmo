@@ -1,0 +1,176 @@
+{
+  "fecha_entrenamiento": "2025-06-02T10:46:15.628816",
+  "algoritmo": "Random Forest Optimizado",
+  "metodologia": "CRISP-DM",
+  "optimizaciones_aplicadas": [
+    "Feature selection con mutual information",
+    "Balanceado de datos con SMOTE",
+    "Hiperparámetros optimizados",
+    "Class weight balanced",
+    "Validación cruzada exhaustiva"
+  ],
+  "total_modelos": 3,
+  "modelos_exitosos": 3,
+  "porcentaje_exito": 100.0,
+  "estado_general": "✅ EXCELENTE - TODOS LOS OBJETIVOS CUMPLIDOS",
+  "objetivos_negocio": {
+    "modelo_1": {
+      "nombre": "Predicción de próxima fecha de compra",
+      "objetivo_precision": 83,
+      "metrica_principal": "precisión_temporal",
+      "descripcion": "Predecir cuándo un cliente realizará su próxima compra con alta precisión",
+      "tolerancia_dias": [
+        3,
+        5,
+        7,
+        10
+      ]
+    },
+    "modelo_2": {
+      "nombre": "Estimación de productos con mayor probabilidad de compra",
+      "objetivo_precision": 76,
+      "metrica_principal": "precision_clasificacion",
+      "descripcion": "Identificar productos que un cliente tiene mayor probabilidad de comprar",
+      "top_productos": 5
+    },
+    "modelo_3": {
+      "nombre": "Anticipación de cambios en patrones de consumo",
+      "objetivo_efectividad": 68,
+      "metrica_principal": "efectividad_deteccion",
+      "descripcion": "Detectar cambios significativos en el comportamiento de compra del cliente",
+      "umbral_cambio": 0.3
+    },
+    "analisis_importancia": {
+      "nombre": "Análisis de importancia de variables para decisiones comerciales",
+      "descripcion": "Identificar las variables más importantes para la toma de decisiones comerciales",
+      "top_variables": 10
+    }
+  },
+  "metricas_objetivo": {
+    "precision_general": 80.0,
+    "recall_general": 75.0,
+    "f1_score_general": 77.0
+  },
+  "modelo1": {
+    "nombre": "Predicción Próxima Compra (Optimizado)",
+    "objetivo": 83,
+    "mejor_precision": 90.5311778290993,
+    "objetivo_cumplido": true,
+    "mae": 5.09647670440511,
+    "rmse": 7.396921466181573,
+    "r2": 0.01953037965877702,
+    "cv_mae": 5.204621093925259,
+    "cv_std": 0.1547869179980961,
+    "precisiones": {
+      "precision_3dias": 37.59815242494226,
+      "precision_5dias": 62.586605080831404,
+      "precision_7dias": 81.06235565819861,
+      "precision_10dias": 90.5311778290993,
+      "precision_porcentual_20": 16.997690531177827
+    },
+    "features_seleccionadas": [
+      "total_compras_historicas",
+      "gasto_total_historico",
+      "gasto_promedio_historico",
+      "recencia_desde_anterior",
+      "intervalo_promedio_historico",
+      "variabilidad_intervalos",
+      "mes",
+      "trimestre",
+      "semana_mes",
+      "productos_distintos",
+      "tendencia_gasto",
+      "regularidad_compras"
+    ]
+  },
+  "modelo2": {
+    "nombre": "Predicción de Productos (Optimizado)",
+    "objetivo": 76,
+    "accuracy": 99.3607305936073,
+    "precision": 100.0,
+    "recall": 98.72029250457038,
+    "f1_score": 99.35602575896965,
+    "auc_roc": 0.9999966639533486,
+    "objetivo_cumplido": true,
+    "cv_accuracy": 99.54307847703957,
+    "cv_std": 0.2519815414140915,
+    "matriz_confusion": [
+      [
+        548,
+        0
+      ],
+      [
+        7,
+        540
+      ]
+    ],
+    "features_seleccionadas": [
+      "cliente_total_compras",
+      "cliente_gasto_promedio",
+      "cliente_frecuencia_mensual",
+      "cliente_categorias_distintas",
+      "cliente_productos_distintos",
+      "cliente_diversidad_productos",
+      "cliente_regularidad_compras",
+      "producto_popularidad",
+      "producto_penetracion",
+      "producto_precio_promedio",
+      "producto_ventas_promedio",
+      "producto_clientes_unicos",
+      "producto_frecuencia_cliente",
+      "producto_dias_mercado",
+      "producto_recencia"
+    ]
+  },
+  "modelo3": {
+    "nombre": "Anticipación de Cambios (Optimizado)",
+    "objetivo": 68,
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "auc_roc": 1.0,
+    "objetivo_cumplido": true,
+    "cv_accuracy": 99.0909090909091,
+    "cv_std": 1.8181818181818168,
+    "matriz_confusion": [
+      [
+        11,
+        0
+      ],
+      [
+        0,
+        12
+      ]
+    ],
+    "features_seleccionadas": [
+      "gasto_total",
+      "antiguedad_meses",
+      "frecuencia_mensual",
+      "productos_distintos",
+      "diversidad_productos",
+      "lealtad_marca",
+      "variabilidad_gasto",
+      "tendencia_gasto",
+      "concentracion_estacional",
+      "tipo_negocio_encoded",
+      "ciudad_encoded",
+      "max_cambio",
+      "cambio_promedio",
+      "cambios_p1_p2",
+      "cambios_p2_p3"
+    ]
+  },
+  "metricas_generales_rf": {
+    "precision_general": 100.0,
+    "recall_general": 99.36014625228519,
+    "f1_score_general": 99.67801287948483,
+    "accuracy_general": 99.68036529680364,
+    "objetivos_cumplidos": 3,
+    "porcentaje_cumplimiento": 100.0,
+    "precision_objetivo_cumplido": true,
+    "recall_objetivo_cumplido": true,
+    "f1_objetivo_cumplido": true,
+    "optimizado": true
+  }
+}

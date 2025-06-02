@@ -1,0 +1,16 @@
+variable,importancia
+max_cambio,0.43327580636723145
+cambio_promedio,0.1565587149587215
+cambios_p1_p2,0.10787181953811574
+cambios_p2_p3,0.08366781536345956
+concentracion_estacional,0.05102228184321652
+frecuencia_mensual,0.03255665902530065
+variabilidad_gasto,0.02897778663064651
+gasto_total,0.028086604834740982
+diversidad_productos,0.026000811585647814
+tendencia_gasto,0.02037265316505665
+antiguedad_meses,0.018183528365947343
+productos_distintos,0.01342551832191534
+lealtad_marca,0.0
+ciudad_encoded,0.0
+tipo_negocio_encoded,0.0

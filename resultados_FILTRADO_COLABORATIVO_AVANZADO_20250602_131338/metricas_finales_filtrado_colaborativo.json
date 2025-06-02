@@ -1,0 +1,52 @@
+{
+  "fecha_entrenamiento": "2025-06-02T13:13:41.731278",
+  "algoritmo": "Filtrado Colaborativo Híbrido",
+  "metodologia": "CRISP-DM",
+  "division_datos": "80-20 temporal",
+  "objetivos": {
+    "mae": 0.75,
+    "rmse": 1.0,
+    "cobertura": 0.8
+  },
+  "mejor_modelo": "user_based",
+  "resultados_evaluacion": {
+    "user_based": {
+      "mae": 0.6500123044290328,
+      "rmse": 0.7722130592768629,
+      "cobertura": 1.0,
+      "n_predicciones": 560
+    },
+    "item_based": {
+      "mae": 1.1401707175885716,
+      "rmse": 1.202662885890158,
+      "cobertura": 1.0,
+      "n_predicciones": 560
+    },
+    "svd": {
+      "mae": 1.7958080556595686,
+      "rmse": 1.8530664048710164,
+      "cobertura": 1.0,
+      "n_predicciones": 560
+    },
+    "nmf": {
+      "mae": 1.7958080556595686,
+      "rmse": 1.8530664048710164,
+      "cobertura": 1.0,
+      "n_predicciones": 560
+    },
+    "hibrido": {
+      "mae": 1.3406249426678423,
+      "rmse": 1.4082909713028013,
+      "cobertura": 1.0,
+      "n_predicciones": 560
+    }
+  },
+  "objetivos_cumplidos": 3,
+  "estado_proyecto": "✅ EXCELENTE - TODOS LOS OBJETIVOS CUMPLIDOS",
+  "estadisticas": {
+    "total_usuarios": 112,
+    "total_productos": 25,
+    "total_interacciones": 2736,
+    "densidad_matriz": 97.71428571428571
+  }
+}

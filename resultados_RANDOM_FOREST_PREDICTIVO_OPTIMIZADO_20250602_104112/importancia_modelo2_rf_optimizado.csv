@@ -1,0 +1,16 @@
+variable,importancia
+producto_ventas_promedio,0.16710995859356298
+producto_penetracion,0.1416142201403492
+producto_frecuencia_cliente,0.13695085915750319
+producto_clientes_unicos,0.11836975129587836
+producto_recencia,0.11595769175625473
+producto_popularidad,0.11054032763554744
+cliente_productos_distintos,0.07104085106460808
+producto_dias_mercado,0.0594453833882374
+producto_precio_promedio,0.0314692120504906
+cliente_regularidad_compras,0.009488226602820943
+cliente_frecuencia_mensual,0.008596777782932809
+cliente_gasto_promedio,0.007781625582422136
+cliente_diversidad_productos,0.0077410101633541735
+cliente_total_compras,0.007574396225127649
+cliente_categorias_distintas,0.006319708560910282

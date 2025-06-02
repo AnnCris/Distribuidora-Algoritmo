@@ -1,0 +1,41 @@
+variable,importancia_promedio,modelos,n_modelos
+max_cambio,0.43327580636723145,Modelo 3 Optimizado,1
+producto_ventas_promedio,0.16710995859356298,Modelo 2 Optimizado,1
+cambio_promedio,0.1565587149587215,Modelo 3 Optimizado,1
+producto_penetracion,0.1416142201403492,Modelo 2 Optimizado,1
+gasto_total_historico,0.14032199121023456,Modelo 1 Optimizado,1
+producto_frecuencia_cliente,0.13695085915750319,Modelo 2 Optimizado,1
+intervalo_promedio_historico,0.13645231788427256,Modelo 1 Optimizado,1
+gasto_promedio_historico,0.12107821655516243,Modelo 1 Optimizado,1
+variabilidad_intervalos,0.11980556042803771,Modelo 1 Optimizado,1
+producto_clientes_unicos,0.11836975129587836,Modelo 2 Optimizado,1
+producto_recencia,0.11595769175625473,Modelo 2 Optimizado,1
+producto_popularidad,0.11054032763554744,Modelo 2 Optimizado,1
+cambios_p1_p2,0.10787181953811574,Modelo 3 Optimizado,1
+total_compras_historicas,0.09871024925898864,Modelo 1 Optimizado,1
+regularidad_compras,0.08456214892469069,Modelo 1 Optimizado,1
+cambios_p2_p3,0.08366781536345956,Modelo 3 Optimizado,1
+recencia_desde_anterior,0.07863355408681215,Modelo 1 Optimizado,1
+cliente_productos_distintos,0.07104085106460808,Modelo 2 Optimizado,1
+producto_dias_mercado,0.0594453833882374,Modelo 2 Optimizado,1
+mes,0.051714585184108985,Modelo 1 Optimizado,1
+concentracion_estacional,0.05102228184321652,Modelo 3 Optimizado,1
+tendencia_gasto,0.045704304521537814,"Modelo 1 Optimizado, Modelo 3 Optimizado",2
+semana_mes,0.042744607431698826,Modelo 1 Optimizado,1
+frecuencia_mensual,0.03255665902530065,Modelo 3 Optimizado,1
+producto_precio_promedio,0.0314692120504906,Modelo 2 Optimizado,1
+variabilidad_gasto,0.02897778663064651,Modelo 3 Optimizado,1
+gasto_total,0.028086604834740982,Modelo 3 Optimizado,1
+productos_distintos,0.02690562025868576,"Modelo 1 Optimizado, Modelo 3 Optimizado",2
+diversidad_productos,0.026000811585647814,Modelo 3 Optimizado,1
+antiguedad_meses,0.018183528365947343,Modelo 3 Optimizado,1
+trimestre,0.014555090962518369,Modelo 1 Optimizado,1
+cliente_regularidad_compras,0.009488226602820943,Modelo 2 Optimizado,1
+cliente_frecuencia_mensual,0.008596777782932809,Modelo 2 Optimizado,1
+cliente_gasto_promedio,0.007781625582422136,Modelo 2 Optimizado,1
+cliente_diversidad_productos,0.0077410101633541735,Modelo 2 Optimizado,1
+cliente_total_compras,0.007574396225127649,Modelo 2 Optimizado,1
+cliente_categorias_distintas,0.006319708560910282,Modelo 2 Optimizado,1
+lealtad_marca,0.0,Modelo 3 Optimizado,1
+ciudad_encoded,0.0,Modelo 3 Optimizado,1
+tipo_negocio_encoded,0.0,Modelo 3 Optimizado,1
